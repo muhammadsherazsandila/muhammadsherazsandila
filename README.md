@@ -12,7 +12,7 @@
 <div align="center">
   🇵🇰 Islamabad, Pakistan | BSIT Student @ Quaid-i-Azam University Islamabad <br><br>
 
-  <a href="https://sherazportfolio.vercel.app" target="blank" >
+  <a href="https://sherazportfolio.vercel.app" target="_blank" >
     <img src="https://img.shields.io/badge/Portfolio-20232A?style=flat&logo=daisyui&logoColor=white" alt="Portfolio Badge">
   </a>
 </div>
@@ -75,7 +75,7 @@ I'm a passionate Full Stack Developer specializing in JavaScript ecosystems. Cur
 
 ### 📫 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-sheraz-800948347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/muhammad-sheraz-800948347">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:msd.sheraz046@gmail.com">
