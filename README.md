@@ -12,7 +12,7 @@
 <div align="center">
   🇵🇰 Islamabad, Pakistan | BSIT Student @ Quaid-i-Azam University Islamabad <br><br>
 
-  <a href="https://sherazportfolio.vercel.app" target="_blank">
+  <a href="https://sherazportfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-20232A?style=flat&logo=daisyui&logoColor=white" alt="Portfolio Badge">
   </a>
 </div>
