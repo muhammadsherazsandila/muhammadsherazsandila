@@ -68,7 +68,6 @@ I'm a passionate Full Stack Developer specializing in JavaScript ecosystems. Cur
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadsherazsandila&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsherazsandila&theme=radical" alt="GitHub Streak" width="45%">
 </p>
 
 ---
